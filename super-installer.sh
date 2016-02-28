@@ -52,6 +52,7 @@ brew tap caskroom/fonts
 
 # Apps
 apps=(
+  alfred
   google-chrome
   atom
   slack
