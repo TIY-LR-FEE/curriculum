@@ -1,6 +1,6 @@
 | Day | Lecture 1 | Lecture 2 | Assignment |
 | :-: | :-: | :-: | :-: |
-| M | node Server Basics | Routing | Create basic node server that returns for multiple URLs |
-| T | Loopback Basics | Data Modeling | Create single model Loopback app. Backend and Frontend. |
-| W | Authentication / ACLs | Relationships | Create Loopback Backend for Todo App |
-| R | | | |
+| M | Angular Basics | Routing, Views, Simple Binding | Angular Marvel |
+| T | modules, ng-repeat | $http/$q | Rebuild Marvel API |
+| W | ng-model and Data Binding | Event Directives (ng-click, ng-checked, ng-change, ng-submit, ng-selected, ng-value) | |
+| R | ng-pattern, ng-maxlength, ng-minlength, ng-required | | |

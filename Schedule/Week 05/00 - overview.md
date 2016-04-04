@@ -1,8 +1,8 @@
 | Day | Lecture 1 | Lecture 2 | Assignment |
 | :-: | :-: | :-: | :-: |
-| M | ES2015 Classes | Prototype | |
-| T | HTTP Concepts | Polyfills & fetch & Promises | [Github API](https://github.com/theironyard/js-assignments/tree/master/APIs/github-api-profile) |
-| W | API Keys & API Auth Headers | CORS | [Weather API Variant with openweathermap.org](https://github.com/theironyard/js-assignments/tree/master/APIs/weather-app)|
+| M | HTTP Concepts | Polyfills & fetch & Promises | [Github API](https://github.com/theironyard/js-assignments/tree/master/APIs/github-api-profile) |
+| T | API Keys & API Auth Headers & POST | CORS | [Weather API Variant with openweathermap.org](https://github.com/theironyard/js-assignments/tree/master/APIs/weather-app)|
+| W | Routing | PUT |
 | R | REST | | Integrate Todo List with REST API (with simple Auth) |
 
 * AJAX
